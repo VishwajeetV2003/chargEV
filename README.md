@@ -9,6 +9,17 @@ charging stations for various stations in your area. You can get information abo
 as the port types supported by the station. Aside from that, there are numerous other advantages 
 to using ChargEV.
 
+Aside from searching for a charging station, users can also reserve a time slot of their choice. 
+This will save them a spot for that instance. This will save them time because we all know that 
+charging an EV takes at least 20-30 minutes, which can be inconvenient when people are in a 
+hurry. This feature will save the user's time.
+
+ChargEV also has a booking history for the user, which allows them to keep track of previously 
+booked stations. In this system, the user can manage all appointments as well as search for and 
+reserve a charging station slot in advance. The user can also search for an EV station by stationId 
+or city name. After booking a slot, the user will receive an email with slot confirmation 
+information. All of the stations and slots will be managed by the administrator.
+
 
 ## Installation
 threr are two folder in application 
