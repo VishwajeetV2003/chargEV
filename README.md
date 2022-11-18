@@ -14,6 +14,7 @@ to using ChargEV.
 threr are two folder in application 
 1. cars -> backend
 2. frontend 
+
 backend is fully written in python with django rest framework and frontend is made by using react.
 Step 1 : Run Cars backend
 
